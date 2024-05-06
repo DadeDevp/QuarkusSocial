@@ -1,4 +1,6 @@
-# quarkus-social
+# Projeto Quarkus Social do curso do instrutor Dougllas Sousa
+[Udemy Course: Aprenda Quarkus e Desenvolva API's RESTful Poderosas em Java](https://www.udemy.com/course/aprenda-quarkus-e-desenvolva-apis-restful-poderosas-em-java)
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
